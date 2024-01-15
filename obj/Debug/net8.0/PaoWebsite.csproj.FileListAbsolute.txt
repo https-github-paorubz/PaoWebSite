@@ -28,3 +28,4 @@ C:\Users\alepa\repos\PaoWebsite\obj\Debug\net8.0\refint\PaoWebsite.dll
 C:\Users\alepa\repos\PaoWebsite\obj\Debug\net8.0\PaoWebsite.pdb
 C:\Users\alepa\repos\PaoWebsite\obj\Debug\net8.0\PaoWebsite.genruntimeconfig.cache
 C:\Users\alepa\repos\PaoWebsite\obj\Debug\net8.0\ref\PaoWebsite.dll
+C:\Users\alepa\repos\PaoWebsite\obj\Debug\net8.0\PaoWebsite.sourcelink.json
